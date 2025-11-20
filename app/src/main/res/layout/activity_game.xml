@@ -43,7 +43,7 @@
                 android:id="@+id/tv_multiplicador"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Multiplicador: x1"
+                android:text="Multiplicador de puntos: x1"
                 android:textSize="18sp"
                 android:layout_marginBottom="8dp" />
 
